@@ -1,0 +1,15 @@
+C:\Users\Cristopher Alejandro\Desktop\Practica\promt\Prompt\bin\Debug\net8.0\Prompt.exe
+C:\Users\Cristopher Alejandro\Desktop\Practica\promt\Prompt\bin\Debug\net8.0\Prompt.deps.json
+C:\Users\Cristopher Alejandro\Desktop\Practica\promt\Prompt\bin\Debug\net8.0\Prompt.runtimeconfig.json
+C:\Users\Cristopher Alejandro\Desktop\Practica\promt\Prompt\bin\Debug\net8.0\Prompt.dll
+C:\Users\Cristopher Alejandro\Desktop\Practica\promt\Prompt\bin\Debug\net8.0\Prompt.pdb
+C:\Users\Cristopher Alejandro\Desktop\Practica\promt\Prompt\obj\Debug\net8.0\Prompt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cristopher Alejandro\Desktop\Practica\promt\Prompt\obj\Debug\net8.0\Prompt.AssemblyInfoInputs.cache
+C:\Users\Cristopher Alejandro\Desktop\Practica\promt\Prompt\obj\Debug\net8.0\Prompt.AssemblyInfo.cs
+C:\Users\Cristopher Alejandro\Desktop\Practica\promt\Prompt\obj\Debug\net8.0\Prompt.csproj.CoreCompileInputs.cache
+C:\Users\Cristopher Alejandro\Desktop\Practica\promt\Prompt\obj\Debug\net8.0\Prompt.sourcelink.json
+C:\Users\Cristopher Alejandro\Desktop\Practica\promt\Prompt\obj\Debug\net8.0\Prompt.dll
+C:\Users\Cristopher Alejandro\Desktop\Practica\promt\Prompt\obj\Debug\net8.0\refint\Prompt.dll
+C:\Users\Cristopher Alejandro\Desktop\Practica\promt\Prompt\obj\Debug\net8.0\Prompt.pdb
+C:\Users\Cristopher Alejandro\Desktop\Practica\promt\Prompt\obj\Debug\net8.0\Prompt.genruntimeconfig.cache
+C:\Users\Cristopher Alejandro\Desktop\Practica\promt\Prompt\obj\Debug\net8.0\ref\Prompt.dll

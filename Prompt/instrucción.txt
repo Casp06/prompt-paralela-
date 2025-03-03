@@ -1,0 +1,12 @@
+Descripción del Problema: Procesamiento Paralelo de Imágenes
+Imagina que estás desarrollando una aplicación para un servicio de edición de imágenes en línea. Los usuarios pueden cargar múltiples imágenes, y tu aplicación debe aplicarles varios filtros de forma simultánea para mejorar el rendimiento. Cada filtro representa una tarea que puede ejecutarse en paralelo.
+
+Requisitos Específicos
+Carga de Imágenes: Simula la carga de un conjunto de imágenes (puedes usar nombres de archivo ficticios o rutas de ejemplo).
+Aplicación de Filtros: Implementa al menos tres filtros de imagen ficticios (por ejemplo, "Mejora de Contraste", "Escala de Grises", "Desenfoque"). Cada filtro debe simular un tiempo de procesamiento variable usando Task.Delay.
+Procesamiento Paralelo: Utiliza Task.Run o Task.Factory.StartNew para ejecutar cada filtro en paralelo.
+Tareas Padre-Hijo: Crea una tarea padre que represente el procesamiento de una imagen y tareas hijo para cada filtro aplicado a esa imagen usando TaskCreationOptions.AttachedToParent.
+Continuación con Éxito: Usa ContinueWith con TaskContinuationOptions.OnlyOnRanToCompletion para realizar una acción cuando todos los filtros se hayan aplicado con éxito a una imagen (por ejemplo, guardar la imagen procesada).
+Manejo de Errores: Implementa ContinueWith con TaskContinuationOptions.OnlyOnCanceled para manejar la cancelación de tareas (por ejemplo, si un filtro falla, cancelar el procesamiento de la imagen).
+Coordinación de Tareas: Utiliza Task.WhenAny para detectar cuando un filtro ha terminado de procesar una imagen.
+Simulación de Procesamiento: Usa Task.Delay para simular el tiempo de procesamiento de cada filtro.
